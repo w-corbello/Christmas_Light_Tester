@@ -1,0 +1,29 @@
+/*
+EEPROM MAP
+
+0 = IP 1
+1 = IP 2
+2 = IP 3
+3 = IP 4
+4 = Port
+5 = Port
+6 = Size
+7 = Size
+8 = Universe
+9 = Universe
+10 = Brightness
+
+20 = 3 Wire Size
+22 = 3 Wire Brightness
+
+
+30 = WS2801 Size
+31 = WS2801 Brightness
+
+40 = Renard Baud
+41 = Renard Man Speed
+42 = Renard Auto SPeed
+43 = Renard Size
+44 = Renard Delay
+
+
