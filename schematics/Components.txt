@@ -1,0 +1,41 @@
+ 
+ 1ea  	1008	10K resistor
+ 1ea  	1206	0ohm resistor 
+ 2ea  	1206	100ohm resistor 
+ 1ea  	1206	1K resistor
+ 2ea  	1206	2K resistor
+ 1ea  	1206	2.2K resistor
+ 2ea  	1206	5K resistor
+ 1ea  	1206	10K resistor
+
+ 2ea	1/4w	120ohm
+
+ 3ea	1206	.1uF cap
+ 1ea 		440uF cap 16vdc
+ 
+ 1ea	SOIC	MC74VHC1GT125 Noninverting Buffer
+ 1ea	DIP	SN76176B Diff. Bus Transceiver
+ 
+ 
+
+ 
+ 1ea 		AMS1117_3.3VDC voltage regulator
+ 1ea    ASM	LM2596S
+ 1ea    ASM     ESP-12F+Super Node PCB 
+ 1ea	ASM	Nextion 2.8" LCD NX3224T028 (or pick a different size)
+ 
+ 
+ 1ea	.1	2 pin header strip (male)
+ 2ea	.1	3 pin header strip (male)
+ 1ea	.1	4 pin header strip (male)
+ 1ea	.1	5 pin header strip (male) 
+ 2ea	.1	14 pin 2.54mm Female Single Row Pin
+ 4ea    3.8mm   terminal block, header
+ 1ea		RJ45 8P8C connector, right angle
+ 2ea		6x3.5x5mm PCB Momentary Push Button
+ 1ea		BLX-A type PCB Mount Fuse Holder 5 x 20mm
+ 
+ 1ea	PCB	2.7"x 4.6" single sided PC Board
+ 1ea    Sht	Press-n-Peel Blue PCB Transfer Paper Film Etch Circuit Boards
+ 
+ Waterproof Plastic Black Cover Project Electronic Case Enclosure Box 125*80*32mm
