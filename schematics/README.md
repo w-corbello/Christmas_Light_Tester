@@ -1,6 +1,13 @@
 Files:
+
 Christmas Light Tester.pdf - manual
-PC_board_1.jpg - PC board parts
-PC_board_2.jpg -  PC board parts closeup
+
+PC_Bottom_Board.pdf - PC board bottom
+
+PC_Complete_Board.pdf -  PC board complete
+
+PC_Top_Board.pdf - PC board top
+
 Schematic_tester.pdf - electrical
+
 Components.txt - components used
