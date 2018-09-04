@@ -1,41 +1,43 @@
  
  1ea  	1008	10K resistor
- 1ea  	1206	0ohm resistor 
- 2ea  	1206	100ohm resistor 
+ 4ea  	1206	100ohm resistor 
  1ea  	1206	1K resistor
  2ea  	1206	2K resistor
  1ea  	1206	2.2K resistor
  2ea  	1206	5K resistor
  1ea  	1206	10K resistor
 
- 2ea	1/4w	120ohm
+ 2ea	  1/4w	120ohm
 
- 3ea	1206	.1uF cap
+ 3ea	  1206	.1uF cap
  1ea 		440uF cap 16vdc
  
- 1ea	SOIC	MC74VHC1GT125 Noninverting Buffer
- 1ea	DIP	SN76176B Diff. Bus Transceiver
- 
- 
-
- 
+ 1ea	  SOIC	MC74VHC1GT125 Noninverting Buffer
+ 1ea  	DIP	SN76176B Diff. Bus Transceiver
  1ea 		AMS1117_3.3VDC voltage regulator
- 1ea    ASM	LM2596S
- 1ea    ASM     ESP-12F+Super Node PCB 
- 1ea	ASM	Nextion 2.8" LCD NX3224T028 (or pick a different size)
+ 
+ 1ea   ASM	LM2596S (LM2596S DC-DC 3V-40V to 1.5V-35V 3A Step Down Power Module Buck Converter)
+        Ebay(https://www.ebay.com/itm/10x-LM2596S-DC-DC-3V-40V-to-1-5V-35V-3A-Step-Down-Power-Module-Buck-Converter             /400358408922?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649)
+        
+ 1ea   ASM ESP-12F+Super Node PCB (Search Ebay)
+ 1ea	  ASM	Nextion 2.8" LCD NX3224T028 (or pick a different size)
  
  
- 1ea	.1	2 pin header strip (male)
- 2ea	.1	3 pin header strip (male)
- 1ea	.1	4 pin header strip (male)
- 1ea	.1	5 pin header strip (male) 
- 2ea	.1	14 pin 2.54mm Female Single Row Pin
+ 1ea  	.1	2 pin header strip (male) (for case mounted LED)
+ 2ea  	.1	3 pin header strip (male) (1 for ext. reset; 1 for ESP8266 programming)
+ 1ea  	.1	4 pin header strip (male) (for Nextion LCD)
+ 1ea  	.1	5 pin header strip (male) (for ICSP PIC16F1825 programming)
+ 2ea  	.1	14 pin header strip (male) (for ESP8266)
+ 2ea  	.1	14 pin 2.54mm Female Single Row Pin (for ESP8266)
  4ea    3.8mm   terminal block, header
- 1ea		RJ45 8P8C connector, right angle
- 2ea		6x3.5x5mm PCB Momentary Push Button
- 1ea		BLX-A type PCB Mount Fuse Holder 5 x 20mm
- 
- 1ea	PCB	2.7"x 4.6" single sided PC Board
- 1ea    Sht	Press-n-Peel Blue PCB Transfer Paper Film Etch Circuit Boards
+ 1ea	  	RJ45 8P8C connector, right angle
+ 2ea  		6x3.5x5mm PCB Momentary Push Button
+ 1ea  		BLX-A type PCB Mount Fuse Holder 5 x 20mm
+
+ Optional:
+ 1 ea   LED either 3mm or 5mm (signals when connected to WIFI and EEPROM writes)
+ 1 ea   Small momentary conbtac switch (for case mounted reset)
+ 1 ea   Small toggle switch for case mounted power control
  
  Waterproof Plastic Black Cover Project Electronic Case Enclosure Box 125*80*32mm
+ (Ebay: https://www.ebay.com/itm/Waterproof-Plastic-Black-Cover-Project-Electronic-Case-Enclosure-Box-125-80-32mm/292502234885?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649)
