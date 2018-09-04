@@ -1,5 +1,7 @@
 Files:
 
+Board_Connections.jpg - shows where to make connection
+
 Christmas Light Tester.pdf - manual
 
 PC_Bottom_Board.pdf - PC board bottom
